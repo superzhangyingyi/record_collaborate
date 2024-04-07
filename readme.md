@@ -14,3 +14,8 @@
 5. [二级分类标签](https://github.com/superzhangyingyi/record_collaborate/assets/143052140/e2fec615-086e-488b-a4d1-dae760dedf65.mp4)
 
 6. ss
+
+
+# 项目后端地址
+1. https://github.com/superzhangyingyi/record_collaborate_backend
+- nodejs + mysql + nginx
