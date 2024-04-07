@@ -1,0 +1,156 @@
+{
+	"pages": [
+		// {
+		// 	"path": "pages/index/p2",
+		// 	"style": {
+		// 		"navigationBarTitleText": "",
+		// 		"enablePullDownRefresh": false
+		// 	}
+
+		// },
+		// {
+		//     "path" : "pages/test/shareTest",
+		//     "style" :                                                                                    
+		//     {
+		//         "navigationBarTitleText": "",
+		//         "enablePullDownRefresh": false
+		//     }
+		    
+		// },
+
+		{
+			"path": "pages/index/judgment",
+			"style": {
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		},
+		{
+			"path": "pages/index/loginPage",
+			"style": {
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+
+		},
+		{
+			"path": "pages/index/billDetailPage",
+			"style": {
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+
+		}
+        ,{
+            "path" : "pages/index/addCategory",
+            "style" :                                                                                    
+            {
+                "app-plus": {
+                	"titleNView": false //禁用原生导航栏
+                }
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/defCategory",
+            "style" :                                                                                    
+            {
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/calendar",
+            "style" :                                                                                    
+            {
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/myDetail",
+            "style" :                                                                                    
+            {
+                "app-plus": {
+                	"titleNView": false //禁用原生导航栏
+                }
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/myAccountBook",
+			 "style" :
+			 {
+				 "app-plus": {
+					"titleNView": false //禁用原生导航栏
+				 }
+			 }
+            
+        }
+		,{
+		    "path" : "pages/index/myAccountBookConfig",
+			 "style" :
+			 {
+				 "app-plus": {
+					"titleNView": false //禁用原生导航栏
+				 }
+			 }
+		    
+		}
+        ,{
+            "path" : "pages/index/otherDetail",
+            "style" :                                                                                    
+            {
+                "app-plus": {
+                	"titleNView": false //禁用原生导航栏
+                }
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/search",
+            "style" :                                                                                    
+            {
+                "app-plus": {
+                	"titleNView": false //禁用原生导航栏
+                }
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/statistics",
+            "style" :                                                                                    
+            {
+                "app-plus": {
+                	"titleNView": false //禁用原生导航栏
+                }
+            }
+            
+        }
+
+    ],
+	"globalStyle": {
+		"globalStyle": {
+			"app-plus": {
+				"titleNView": false
+			}
+		}
+
+	}
+}
