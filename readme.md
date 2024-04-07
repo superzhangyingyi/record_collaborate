@@ -13,7 +13,13 @@
 
 5. [二级分类标签](https://github.com/superzhangyingyi/record_collaborate/assets/143052140/e2fec615-086e-488b-a4d1-dae760dedf65.mp4)
 
-6. ss
+- 合作记账功能
+  - √ 开启/关闭帐本共享
+  - √ 邀请/踢除其他用户共同记账
+  - √ 修改用户的只读/读写权限
+  - √ 账单修改**实时同步**至所有成员客户端
+1. ds
+2. 
 
 
 # 项目后端地址
